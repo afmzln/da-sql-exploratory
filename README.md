@@ -1,7 +1,5 @@
 # SQL Exploratory Data Analysis  
 
-This project is a continuation of the **Data Warehouse Project**, where we use the same dataset to further perform **exploratory data analysis (EDA) in SQL**.  
-
 The main goal is to demonstrate how SQL can be used to **filter, search, and explore datasets** to gain insights when dealing with new, current, or existing projects.  
 
 This project focuses on understanding the data by breaking it down into different exploration steps.  
